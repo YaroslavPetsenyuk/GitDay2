@@ -9,4 +9,6 @@ public class HomePage {
     //Adding more things
 
     //Added Logo
+
+    //Added footer
 }
